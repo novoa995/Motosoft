@@ -1,4 +1,4 @@
-
+//Modulo Compras
 package Interfaz;
 
 import Conexiones.conectar;
